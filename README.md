@@ -1,3 +1,7 @@
+NodeJs
+Web app
+Publish profile
+
 Deploying to https://ghatestappsb1.azurewebsites.net
 
 # Deploying a Node.js Web App using GitHub actions
