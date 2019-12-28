@@ -1,5 +1,9 @@
 NodeJs
+
 Web app
+
+Zip Deploy
+
 Publish profile
 
 Deploying to https://ghatestappsb1.azurewebsites.net
